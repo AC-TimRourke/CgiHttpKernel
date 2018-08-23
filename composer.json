@@ -10,10 +10,11 @@
     ],
     "require": {
         "symfony/http-kernel": "~2.1",
-        "symfony/process": "~2.1"
+        "symfony/process": "~3.4"
     },
     "require-dev": {
-        "silex/silex": "1.0.*@dev"
+        "silex/silex": "1.0.*@dev",
+        "phpunit/phpunit": "~5.7"
     },
     "autoload": {
         "psr-0": { "Igorw": "src" }
