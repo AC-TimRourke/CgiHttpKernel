@@ -10,10 +10,9 @@
     ],
     "require": {
         "symfony/http-kernel": "~2.1",
-        "symfony/process": "~3.4"
+        "symfony/process": "~2.1"
     },
     "require-dev": {
-        "silex/silex": "1.0.*@dev",
         "phpunit/phpunit": "~5.7"
     },
     "autoload": {
